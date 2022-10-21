@@ -21,3 +21,5 @@ Segunda adición, segundo intento de guardar.
 Tercer intento, tercer éxito. !:)
 
 Cuarto cambio, pero este en línea. ¿Qué pasará?
+	
+	-Pues si funcionó. Con git pull actualizó el repositorio local.
